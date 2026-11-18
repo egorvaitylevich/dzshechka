@@ -1,0 +1,14 @@
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\bin\Debug\net8.0\Client.exe
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\bin\Debug\net8.0\Client.dll
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\Client.dll
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\Колледж-Студент\Desktop\TcpEchoProject\Client\obj\Debug\net8.0\ref\Client.dll
