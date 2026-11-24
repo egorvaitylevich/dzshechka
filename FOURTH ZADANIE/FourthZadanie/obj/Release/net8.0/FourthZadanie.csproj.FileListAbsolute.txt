@@ -1,0 +1,14 @@
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\FourthZadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\FourthZadanie.AssemblyInfoInputs.cache
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\FourthZadanie.AssemblyInfo.cs
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\FourthZadanie.csproj.CoreCompileInputs.cache
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\bin\Release\net8.0\FourthZadanie.exe
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\bin\Release\net8.0\FourthZadanie.deps.json
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\bin\Release\net8.0\FourthZadanie.runtimeconfig.json
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\bin\Release\net8.0\FourthZadanie.dll
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\bin\Release\net8.0\FourthZadanie.pdb
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\FourthZadanie.dll
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\refint\FourthZadanie.dll
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\FourthZadanie.pdb
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\FourthZadanie.genruntimeconfig.cache
+D:\Загрузка\FOURTH ZADANIE\FourthZadanie\obj\Release\net8.0\ref\FourthZadanie.dll
