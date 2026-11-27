@@ -1,0 +1,14 @@
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\bin\Debug\net8.0\HttpServerSocket.exe
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\bin\Debug\net8.0\HttpServerSocket.deps.json
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\bin\Debug\net8.0\HttpServerSocket.runtimeconfig.json
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\bin\Debug\net8.0\HttpServerSocket.dll
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\bin\Debug\net8.0\HttpServerSocket.pdb
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\HttpServer.AssemblyInfoInputs.cache
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\HttpServer.AssemblyInfo.cs
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\HttpServerSocket.dll
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\refint\HttpServerSocket.dll
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\HttpServerSocket.pdb
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\HttpServer.genruntimeconfig.cache
+C:\Users\Колледж-Студент\Desktop\картошка\HttpServer\obj\Debug\net8.0\ref\HttpServerSocket.dll
